@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Chirag Saraswat</h1>
 <h3 align="center">An Astronomical Developer from India.</h3>
 
-- 🔭 I’m currently working on [mlplayground](https://github.com/chiragsaraswat/mlplayground.git)
+- 🔭 I’m currently working on [Personal Blog](https://www.chiragsaraswat.dev)
 
 - 🌱 I’m currently learning **Django, Opencv**
 
-- 👯 I’m looking to collaborate on [mlplayground](https://github.com/chiragsaraswat/mlplayground.git)
-
-- 👨‍💻 All of my projects are available at [https://chiragsaraswat.me](https://chiragsaraswat.me)
-
-- 📝 I regularly write articles on [https://mlplayground.in](https://mlplayground.in)
+- 📝 I regularly write articles on [https://www.chiragsaraswat.dev](https://www.chiragsaraswat.dev/)
 
 - 💬 Ask me about **react native, python, c, linux**
 
