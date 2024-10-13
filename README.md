@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **chirag@chiragsaraswat.me**
 
-- ⚡ Fun fact **I think i like Astrology but i fear dark ¯\_(ツ)_/¯**
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
